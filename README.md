@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+Joseph Meagher
 
-# Your Github username
+jomeaghe
